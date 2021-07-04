@@ -1,5 +1,5 @@
 # OpenSourceProblems
- A place for me to come up with, sort, and research problems.
+ A place for me to come up with, sort, and research problems. Problems in this project may not be applicable or present in the real world as problems presented here are meant to help me learn new concepts.
 
 ## Overview
 This is a collection of papers written about various problems that interest me with the intention of researchin and developing abstract solutions for them.
